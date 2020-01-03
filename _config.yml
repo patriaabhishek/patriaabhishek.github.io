@@ -1,13 +1,13 @@
 # Site settings
 title: Abhishek Patria
-email: patriaabhishek[at]gmail[dot]com
+email: patriaabhishek[at]gmail
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 github_username: patriaabhishek
 facebook_username: patriaabhishek
-linkedin_username: in/abhishek-patria
+linkedin_username: abhishek-patria
 
 # Build settings
 markdown: kramdown
