@@ -9,6 +9,7 @@ github_username:
 linkedin_username:
 instagram_username:
 facebook_username:
+twitter_username:
 
 # Build settings
 markdown: kramdown
