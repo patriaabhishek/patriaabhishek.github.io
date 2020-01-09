@@ -14,5 +14,5 @@ twitter_username:
 # Build settings
 markdown: kramdown
 
-
-
+plugins:
+    - jekyll-sitemap
